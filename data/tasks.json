@@ -312,7 +312,7 @@
     {
       "id": "task_def28897",
       "title": "Konfigurere AI-PC (Atlas anbefaling)",
-      "description": "Sette opp komplett deleliste for en kraftig og stilleg\u00e5ende AI-maskin (fokus p\u00e5 VRAM og CUDA). Sjekke priser og lagerstatus p\u00e5 norske butikker.",
+      "description": "Sette opp komplett deleliste for en kraftig og stilleg\u00e5ende AI-maskin (fokus p\u00e5 VRAM og CUDA). Sjekke priser og lagerstatus p\u00e5 norske butikker.\n\n**Budsjett:** 50.000 kr\n**Fokus:** AI (VRAM), St\u00f8yfrihet, Utseende uvesentlig.",
       "status": "in_progress",
       "project": "default",
       "priority": "high",
@@ -331,9 +331,20 @@
           "id": "sub_3",
           "title": "Prissjekk hos Komplett/NetOnNet/Proshop",
           "done": false
+        },
+        {
+          "id": "sub_4",
+          "title": "Optimalisere for 50k budsjett (RTX 4090 + 96GB RAM)",
+          "done": false
         }
       ],
-      "comments": [],
+      "comments": [
+        {
+          "author": "Atlas",
+          "text": "Budsjett bekreftet til 50.000 kr. Dette gir rom for det beste av det beste: RTX 4090 og massivt med RAM.",
+          "timestamp": "2026-04-24T18:32:31Z"
+        }
+      ],
       "createdAt": "2026-04-24T18:32:01Z"
     }
   ],
