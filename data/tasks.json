@@ -308,6 +308,33 @@
       "priority": "high",
       "comments": [],
       "createdAt": "2026-04-24T09:36:45Z"
+    },
+    {
+      "id": "task_def28897",
+      "title": "Konfigurere AI-PC (Atlas anbefaling)",
+      "description": "Sette opp komplett deleliste for en kraftig og stilleg\u00e5ende AI-maskin (fokus p\u00e5 VRAM og CUDA). Sjekke priser og lagerstatus p\u00e5 norske butikker.",
+      "status": "in_progress",
+      "project": "default",
+      "priority": "high",
+      "subtasks": [
+        {
+          "id": "sub_1",
+          "title": "Definere kravspesifikasjon (GPU/VRAM)",
+          "done": true
+        },
+        {
+          "id": "sub_2",
+          "title": "Sette opp deleliste (stilleg\u00e5ende fokus)",
+          "done": false
+        },
+        {
+          "id": "sub_3",
+          "title": "Prissjekk hos Komplett/NetOnNet/Proshop",
+          "done": false
+        }
+      ],
+      "comments": [],
+      "createdAt": "2026-04-24T18:32:01Z"
     }
   ],
   "projects": [
