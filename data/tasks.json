@@ -280,6 +280,43 @@
       "createdAt": "2026-01-01T00:00:02Z"
     },
     {
+      "id": "task_stenco_marketing",
+      "title": "Lansere Stenco-Høvik (Kija)",
+      "description": "Agent Kija tar ansvaret for å bygge merkevaren Stenco-Høvik. Inkluderer sosiale medier, innholdsplan og ferdigstilling av hjemmeside.",
+      "status": "in_progress",
+      "project": "default",
+      "tags": [
+        "marketing",
+        "stenco"
+      ],
+      "subtasks": [
+        {
+          "id": "sub_1",
+          "title": "Utarbeide visuell profil og budskap",
+          "done": false
+        },
+        {
+          "id": "sub_2",
+          "title": "Lage innholdsplan for sosiale medier",
+          "done": false
+        },
+        {
+          "id": "sub_3",
+          "title": "Tekst og innhold til ny hjemmeside",
+          "done": false
+        }
+      ],
+      "priority": "high",
+      "comments": [
+        {
+          "author": "Atlas",
+          "text": "Agent Kija er nå aktivert og har fått dette som sitt hovedprosjekt.",
+          "timestamp": "2026-04-25T08:59:00Z"
+        }
+      ],
+      "createdAt": "2026-04-25T08:59:00Z"
+    },
+    {
       "id": "task_laerling_oversikt",
       "title": "Oversikt over lærlinger og byggeplasser",
       "description": "Opprette og vedlikeholde en aktiv liste over alle lærlinger og hvilke byggeplasser de er fordelt på. Dette skal kobles mot masterplanen for å sikre optimal ressursbruk.",
