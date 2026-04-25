@@ -280,7 +280,36 @@
       "createdAt": "2026-01-01T00:00:02Z"
     },
     {
-      "id": "task_3d66fac8",
+      "id": "task_laerling_oversikt",
+      "title": "Oversikt over lærlinger og byggeplasser",
+      "description": "Opprette og vedlikeholde en aktiv liste over alle lærlinger og hvilke byggeplasser de er fordelt på. Dette skal kobles mot masterplanen for å sikre optimal ressursbruk.",
+      "status": "backlog",
+      "project": "default",
+      "tags": [
+        "bemanning",
+        "byggeplass"
+      ],
+      "subtasks": [
+        {
+          "id": "sub_1",
+          "title": "Samle navn på alle lærlinger",
+          "done": false
+        },
+        {
+          "id": "sub_2",
+          "title": "Liste opp aktive byggeplasser",
+          "done": false
+        },
+        {
+          "id": "sub_3",
+          "title": "Koble lærling mot spesifikk plass",
+          "done": false
+        }
+      ],
+      "priority": "high",
+      "comments": [],
+      "createdAt": "2026-04-25T08:15:00Z"
+    },
       "title": "Ordne hjemmeside",
       "description": "Planlegge og sette opp ny hjemmeside for blikkenslager-virksomheten. Trenger struktur, innhold og publisering via Domeneshop.",
       "status": "backlog",
