@@ -347,6 +347,8 @@
       "comments": [],
       "createdAt": "2026-04-25T08:15:00Z"
     },
+    {
+      "id": "task_hjemmeside",
       "title": "Ordne hjemmeside",
       "description": "Planlegge og sette opp ny hjemmeside for blikkenslager-virksomheten. Trenger struktur, innhold og publisering via Domeneshop.",
       "status": "backlog",
