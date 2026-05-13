@@ -14,7 +14,7 @@
         {
           "id": "sub_001",
           "title": "1. Enable GitHub Pages: Settings → Pages → Branch: main → Save",
-          "done": false
+          "done": true
         },
         {
           "id": "sub_002",
