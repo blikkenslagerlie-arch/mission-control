@@ -386,7 +386,7 @@
       "id": "task_def28897",
       "title": "Konfigurere AI-PC (Atlas anbefaling)",
       "description": "Sette opp komplett deleliste for en kraftig og stillegående AI-maskin (fokus på VRAM og CUDA). Sjekke priser og lagerstatus på norske butikker.\n\n**Budsjett:** 50.000 kr\n**Fokus:** AI (VRAM), Støyfrihet, Utseende uvesentlig.",
-      "status": "in_progress",
+      "status": "done",
       "project": "default",
       "priority": "high",
       "subtasks": [
@@ -418,7 +418,9 @@
           "timestamp": "2026-04-24T18:32:31Z"
         }
       ],
-      "createdAt": "2026-04-24T18:32:01Z"
+      "createdAt": "2026-04-24T18:32:01Z",
+      "completedAt": "2026-06-05T08:03:39.828Z",
+      "sortOrder": 0
     }
   ],
   "projects": [
@@ -437,6 +439,14 @@
   ],
   "activities": [
     {
+      "type": "moved",
+      "actor": "blikkenslagerlie-arch",
+      "task": "Konfigurere AI-PC (Atlas anbefaling)",
+      "from": "in_progress",
+      "to": "done",
+      "time": "just now"
+    },
+    {
       "type": "created",
       "actor": "Mission Control",
       "task": "Onboarding Guide",
@@ -449,5 +459,5 @@
       "time": "just now"
     }
   ],
-  "lastUpdated": "2026-05-13T10:33:31.888Z"
+  "lastUpdated": "2026-06-05T08:03:39.828Z"
 }
